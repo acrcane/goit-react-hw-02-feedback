@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 
-
+//STYLE!!!!!!!!!!!!!!
 
 export class FeedbackOptions extends Component {
 
